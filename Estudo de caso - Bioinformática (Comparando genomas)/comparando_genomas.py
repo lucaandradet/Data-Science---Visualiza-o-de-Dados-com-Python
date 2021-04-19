@@ -1,4 +1,4 @@
-entrada = open("18s_humano.fasta").read()
+entrada = open("18s_human.fasta").read()
 saida = open("18s_humano.html","w")
 
 cont = {}
