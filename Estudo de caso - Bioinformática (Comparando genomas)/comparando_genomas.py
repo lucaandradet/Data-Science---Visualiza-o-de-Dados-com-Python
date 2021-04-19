@@ -1,5 +1,5 @@
-entrada = open("18s_human.fasta").read()
-saida = open("18s_humano.html","w")
+entrada = open("16s_bacteria.fasta").read()
+saida = open("16s_bacteria.html","w")
 
 cont = {}
 
